@@ -8,9 +8,9 @@ The full guide lives at **[nxnative.org](https://nxnative.org)**. This repositor
 
 ## Quick facts (checked November 6, 2026)
 
-- **Games:** 141 games tested on Mac or iPhone, 26 of them with 60 fps notes (two of those, Fire Emblem Fortune's Weave and Mario & Luigi: Brothership, offer up to 120 fps on a Mac with a 120 Hz screen). See the [nxnative compatibility list](https://nxnative.org/games/).
+- **Games:** 143 games tested on Mac or iPhone, 26 of them with 60 fps notes (two of those, Fire Emblem Fortune's Weave and Mario & Luigi: Brothership, offer up to 120 fps on a Mac with a 120 Hz screen). See the [nxnative compatibility list](https://nxnative.org/games/).
 - **Switch 2 on Mac:** 11 Switch 2 games are in the tested list, among them Mario Kart World, Pokémon Pokopia, Kirby Air Riders, Star Fox and The Legend of Zelda: Ocarina of Time. They run on Apple silicon Macs only; iPhone and iPad are untested. See [Switch 2 games on Mac](https://nxnative.org/switch-2/).
-- **Recently tested on the Mac:** ŌKAMI HD, Yoshi and the Mysterious Book, DRAGON QUEST BUILDERS 2, DAVE THE DIVER and Super Mario 3D All-Stars (Super Mario 64 and Sunshine). See [nxnative on Mac](https://nxnative.org/mac/).
+- **Recently tested on the Mac:** Sonic Superstars, Minecraft Dungeons II, ŌKAMI HD, Yoshi and the Mysterious Book, DRAGON QUEST BUILDERS 2, DAVE THE DIVER and Super Mario 3D All-Stars (Super Mario 64 and Sunshine). See [nxnative on Mac](https://nxnative.org/mac/).
 - **Play on:** iPhone 15 Pro or newer (iOS 26+), M1 iPad or newer (iPadOS 26+), or an Apple silicon Mac.
 - **Build on:** a Mac on macOS 26.6+ with Xcode 27.2. Full list on the [requirements page](https://nxnative.org/requirements/).
 - **Install:** sideload the IPA with AltStore, Sideloadly or LiveContainer. Steps in [how to use nxnative](https://nxnative.org/install/).
